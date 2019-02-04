@@ -1,24 +1,14 @@
-# README
+# Hello World
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 機能概要
+rails でHello Worldを表示させる。
 
-Things you may want to cover:
+## 実装メモ
+* 初期表示でHelloWorldの表示
+* newアクションでGoodMorningを表示
+* 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 学習メモ
+* 
+* 
+* 
